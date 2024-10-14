@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Judson';
+    src: url('Judson-Bold.eot');
+    src: url('Judson-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Judson-Bold.woff2') format('woff2'),
+        url('Judson-Bold.woff') format('woff'),
+        url('Judson-Bold.ttf') format('truetype'),
+        url('Judson-Bold.svg#Judson-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
