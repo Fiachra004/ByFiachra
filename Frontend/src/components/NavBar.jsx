@@ -29,6 +29,12 @@ const NavBar = () => {
                 </nav>
             </div>
         <hr />
+        <div className="create-section-modal">
+            <form>
+                <input type="text" placeholder="Enter Section Name" />
+                <button type="submit">Create</button>
+            </form>
+        </div>
     </div>
     )
 }
